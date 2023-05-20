@@ -1,0 +1,4 @@
+Connect database by login mongo atlas
+username - admin
+password - codeforinterview
+local host 8000
